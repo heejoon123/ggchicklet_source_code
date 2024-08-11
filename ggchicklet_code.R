@@ -1,7 +1,5 @@
-#' Author: Heejoon Ahn
 #' Reference Documentation URL: https://github.com/hrbrmstr/ggchicklet/tree/master 
 #' Date File Created: May 30, 2024
-#' Date File Updated: May 30, 2024
 #' Purpose: Making a code file for ggchicklet to use with newer versions of R.
 
 # OVERALL FUNCTIONS # 
